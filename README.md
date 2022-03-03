@@ -1,0 +1,3 @@
+1.FOOD
+2.CLOTH
+3. SHELTER 
